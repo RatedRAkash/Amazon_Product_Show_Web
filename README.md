@@ -1,4 +1,4 @@
-## About Project
+## A Demo E-commerce Project
 1. A usable link in localhost that’ll take the browser to a webpage.
 2. That webpage will consist of 10 products with name, price in BDT,
 and image.
