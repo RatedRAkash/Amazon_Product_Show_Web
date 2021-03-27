@@ -44,18 +44,14 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **[DevSquad](https://devsquad.com)**
 - **[OP.GG](https://op.gg)**
 
-## Contributing
+## Screenshots
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+## Ten Products Added
+![Ten Products Added](https://user-images.githubusercontent.com/49761339/112706583-65123a80-8ecf-11eb-8b96-a9f1114e4fdf.PNG)
 
-## Code of Conduct
+## Search Functionality
+![Search](https://user-images.githubusercontent.com/49761339/112706588-75c2b080-8ecf-11eb-92c0-a3376bfd56d3.PNG)
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+## Sort![Sort](https://user-images.githubusercontent.com/49761339/112706610-92f77f00-8ecf-11eb-8191-8e31ca7ffae5.PNG)
+ Functionality
 
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
